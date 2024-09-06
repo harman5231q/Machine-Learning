@@ -63,9 +63,4 @@ Enter the number of bedrooms (BHK): 3
 The predicted price of the house is: 85 Lakhs
 ```
 
-## License
-This project is licensed under the MIT License.
 
----
-
-You can customize this further as needed!
